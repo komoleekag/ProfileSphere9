@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+/* index.css */
+.view-all-profiles {
+    background-color: black;
+    min-height: 100vh; /* Make sure it covers the full viewport height */
+    padding-top: 20px;
+}
+
+/* Apply margin to slick slides */
+.slick-slide > div {
+    margin: 0 10px;
+}
+

@@ -1,0 +1,87 @@
+/* Admin Dashboard Header */
+.dashboard-header {
+    font-size: 2rem; /* Larger font size for prominence */
+    font-weight: 700; /* Bold text */
+    color: #333; /* Dark text color */
+    text-align: center; /* Centered title */
+    margin-bottom: 30px; /* Space below the title */
+    background-color: #f4f6f9; /* Light gray background */
+    padding: 20px; /* Padding around the text */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  }
+  
+  /* Admin Sidebar Dropdown Section */
+  .card-body {
+    background-color: #f8f9fa; /* Light background color for the dropdown area */
+    padding: 20px; /* Padding inside the card */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  /* Dropdown Styles */
+  .custom-select {
+    border-radius: 0.25rem; /* Bootstrap default border-radius */
+    border: 1px solid #ccc; /* Light gray border */
+    padding: 10px; /* Padding inside the select box */
+    background-color: #fff; /* White background for the dropdown */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  }
+  
+  .custom-select:focus {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Enhanced focus shadow */
+    border-color: #000; /* Black border on focus */
+  }
+  
+  .card-header {
+    background-color: #000; /* Black background color */
+    color: white; /* White text color */
+    text-align: center; /* Centered header text */
+    font-weight: bold; /* Bold text */
+  }
+  
+  .card-body .form-group label {
+    font-weight: bold; /* Bold label text */
+  }
+  
+  /* Content Area Styling */
+  .content-area {
+    min-height: 200px; /* Ensure enough space for content */
+    background-color: #f8f9fa; /* Light background */
+    padding: 30px; /* More padding inside the content area */
+    border-radius: 8px; /* Rounded corners for content area */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  /* Style for the 'Please select an option' message */
+  .content-area .message {
+    font-size: 1.25rem; /* Slightly larger font */
+    color: #555; /* Dark gray text */
+    text-align: center; /* Centered message */
+    font-weight: 500; /* Medium bold */
+    background-color: #e9ecef; /* Light background for the message box */
+    border-radius: 0.25rem; /* Rounded corners for message box */
+    padding: 20px; /* Padding inside the message box */
+    border: 1px solid #ccc; /* Light border */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+/* AdminDashboard.css */
+
+/* AdminDashboard.css */
+
+.btn-submit {
+    background-color: black; /* Black background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding for better spacing */
+    font-size: 16px; /* Set font size */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for background and text color */
+  }
+  
+  .btn-submit:hover {
+    background-color: darkslategray; /* Change to darkslategray on hover */
+    color: white; /* Ensure text remains white */
+    cursor: pointer; /* Show pointer cursor */
+  }
+  

@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Software Developer",
+      "address": "New York, NY, USA",
+      "coordinates": { "lat": 40.7128, "lng": -74.006 }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Product Manager",
+      "address": "San Francisco, CA, USA",
+      "coordinates": { "lat": 37.7749, "lng": -122.4194 }
+    }
+  ]
+  
